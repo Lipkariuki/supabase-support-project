@@ -1,6 +1,6 @@
 # 🚀 Support Engineer Lab
 
-This repository documents my hands-on journey toward becoming a **Supabase Support Engineer**, with a strong focus on real-world troubleshooting, system understanding, and customer support excellence.
+This repository documents my hands-on journey toward becoming a ** Support Engineer**, with a strong focus on real-world troubleshooting, system understanding, and customer support excellence.
 
 ## 🧠 Scope of Learning
 
