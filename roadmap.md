@@ -61,6 +61,15 @@ Learning Supabase from a Support Engineer perspective.
 * [ ] Observability & Troubleshooting
 
 ---
+### 🌐 Infrastructure Fundamentals
+
+* [ ] DNS Fundamentals
+* [ ] HTTP & HTTPS
+* [ ] TLS / SSL Certificates
+* [ ] Reverse Proxies
+* [ ] Containers & Docker
+* [ ] Observability Basics
+* [ ] Caching Fundamentals
 
 ### 🔍 Troubleshooting Playbooks
 
