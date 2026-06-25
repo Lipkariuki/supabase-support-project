@@ -61,6 +61,15 @@ Learning Supabase from a Support Engineer perspective.
 * [ ] Observability & Troubleshooting
 
 ---
+### 🌐 Infrastructure Fundamentals
+
+* [ ] DNS Fundamentals
+* [ ] HTTP & HTTPS
+* [ ] TLS / SSL Certificates
+* [ ] Reverse Proxies
+* [ ] Containers & Docker
+* [ ] Observability Basics
+* [ ] Caching Fundamentals
 
 ### 🔍 Troubleshooting Playbooks
 
@@ -102,7 +111,10 @@ Documented investigations, root causes, resolutions, and lessons learned.
 
 This repository is actively updated as I complete labs, investigate incidents, and deepen my understanding of Support Engineering.
 
-**Current Focus:** PostgreSQL Internals + Supabase Support Engineering
+Current Focus:
+- PostgreSQL Architecture
+- Support Investigation Methodology
+- Supabase Fundamentals
 
 ---
 
